@@ -39,6 +39,8 @@ video {width: 100%;}
 
 /* album */
 .album {background-color: rgb(46, 71, 78); height: 700px;}
+.album .albumpage { color: white;}
+.album .albumpage:hover { color: red;}
 .album .album1 {margin-left: 110px;}
 .album .album5 {margin-right: 110px;}
 
@@ -92,3 +94,4 @@ video {width: 100%;}
 .location_info>div ul li span { display: inline-block; width: 110px;}
 .location_info>div .map { display: inline-block; text-decoration: none; padding: 15px 40px; margin-left: 60px; margin-top: 30px;}
 .location_info>div>div img { padding-left: 660px; margin-top: -300px; }
+
